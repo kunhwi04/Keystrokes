@@ -115,7 +115,7 @@ int position = 0;
 initializeArray(array, SIZE);
 
 ```
-'int position = 0;': 배열에서 '1'의 현재 위치를 나타내는 변수입니다. 초기 값은 0으로 설정되어 배열의 첫 번째 요소를 가리킵니다.
+'initializeArray(array, SIZE);': 'initializeArray' 함수를 호출하여 배열을 0으로 초기화합니다. 이 함수는 아래에 정의되어 있습니다.
 
 ### 4. 현재 위치에 '1' 설정
 
